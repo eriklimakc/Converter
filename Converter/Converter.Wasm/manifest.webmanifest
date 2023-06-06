@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "Converter",
+  "display": "standalone",
+  "name": "Converter",
+  "short_name": "Converter",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
